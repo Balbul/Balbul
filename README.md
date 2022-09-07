@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Balbul
-- 👀 I’m interested in cdode and photography
+- 👀 I’m interested in code and photography
 - 🌱 I’m currently learning vueJs and nestJs
 
 <!---
