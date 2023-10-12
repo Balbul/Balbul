@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balbul
 - 👀 I’m interested in code and photography
-- 🌱 I’m always learning vueJs and nestJs (Nuxt / NOde / Vuetify ...)
+- 🌱 I’m always learning vueJs and nestJs (Nuxt / NodeJs / Vuetify ...)
 
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
